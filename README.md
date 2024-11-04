@@ -74,15 +74,18 @@ from transformers import pipeline, AutoModelForCausalLM, AutoTokenizer, AutoMode
 
 
 ## Repository Files
-
+New Copy of Team_DeepRacers - Final Project (1).ipynb - Colab workbook with completed code
+DeepRacer Final Presentation Compressed.pdf - PDF of final presentation slides
 
 
 
 ## Noteworthy Pain Points, Learning Experiences, and Opportunities for Further Research
 
+### Opportunities 
 
+If there were more time, this project presents a great opportunity for us to hone our prompt engineering skills to produce the best quality and most appropriate “Mini Soundtrack” using Music Gen. We would also love to explore how we expand the dimensions of the emotions even further to create more complexity for our prompt.
 
-If there were more time, this project presents a great opportunity for us to hone our prompt engineering skills to produce the best quality and most appropriate “Mini Soundtrack” using Music Gen.
+The Music Gen process as well as assembling the videos could be time consuming and could only run in Colab as opposed to VS Code.
 
 
 ## Resources Consulted and Credits
